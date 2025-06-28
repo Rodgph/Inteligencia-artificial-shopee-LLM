@@ -1,0 +1,41 @@
+{
+  "system": {
+    "name": "Shopee Neural AI Advanced",
+    "version": "2.0.0",
+    "description": "Sistema de IA Neural para Atendimento Shopee"
+  },
+  "paths": {
+    "training_data": "dados/shopee_complete_training.json",
+    "model_cache": "modelos/shopee_neural_model.pkl",
+    "logs": "logs/",
+    "backups": "dados/backups/"
+  },
+  "neural": {
+    "confidence_threshold": 0.3,
+    "max_tokens": 100,
+    "semantic_clusters": true,
+    "auto_optimization": true
+  },
+  "categories": {
+    "produto_defeituoso": {
+      "priority": 10,
+      "patterns": 95,
+      "confidence_boost": 0.1
+    },
+    "reenvio_produto": {
+      "priority": 9,
+      "patterns": 40,
+      "confidence_boost": 0.15
+    },
+    "cancelamento_pedido": {
+      "priority": 8,
+      "patterns": 25,
+      "confidence_boost": 0.05
+    },
+    "alteracao_dados": {
+      "priority": 7,
+      "patterns": 60,
+      "confidence_boost": 0.05
+    }
+  }
+}

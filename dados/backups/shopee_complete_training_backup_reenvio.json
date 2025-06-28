@@ -1,0 +1,1508 @@
+[
+  {
+    "question": "olá",
+    "response": "Olá! Bem-vindo ao atendimento da Shopee! 🛍️ Como posso ajudá-lo hoje?",
+    "confidence": 0.9,
+    "category": "saudacao"
+  },
+  {
+    "question": "oi",
+    "response": "Oi! Sou o assistente virtual da Shopee. Em que posso ajudá-lo?",
+    "confidence": 0.9,
+    "category": "saudacao"
+  },
+  {
+    "question": "bom dia",
+    "response": "Bom dia! Seja bem-vindo à Shopee! Como posso auxiliá-lo hoje?",
+    "confidence": 0.9,
+    "category": "saudacao"
+  },
+  {
+    "question": "boa tarde",
+    "response": "Boa tarde! Estou aqui para ajudar com suas compras na Shopee!",
+    "confidence": 0.9,
+    "category": "saudacao"
+  },
+  {
+    "question": "boa noite",
+    "response": "Boa noite! Como posso tornar sua experiência na Shopee ainda melhor?",
+    "confidence": 0.9,
+    "category": "saudacao"
+  },
+  {
+    "question": "onde está meu pedido",
+    "response": "Para verificar seu pedido, acesse 'Meus Pedidos' no app ou site. Lá você encontra o status de entrega e código de rastreamento!",
+    "confidence": 0.9,
+    "category": "pedidos"
+  },
+  {
+    "question": "rastrear pedido",
+    "response": "Para rastrear: vá em 'Meus Pedidos' > clique no pedido > 'Rastrear Encomenda'. Você também pode usar o código nos Correios!",
+    "confidence": 0.9,
+    "category": "pedidos"
+  },
+  {
+    "question": "quanto tempo demora a entrega",
+    "response": "O prazo varia conforme o vendedor e região. Geralmente: 7-15 dias úteis. Verifique o prazo estimado na página do produto!",
+    "confidence": 0.8,
+    "category": "entrega"
+  },
+  {
+    "question": "como cancelar pedido",
+    "response": "Para cancelar: vá em 'Meus Pedidos' > selecione o pedido > 'Cancelar Pedido'. Só é possível antes do envio!",
+    "confidence": 0.9,
+    "category": "pedidos"
+  },
+  {
+    "question": "formas de pagamento",
+    "response": "Aceitamos: Cartão de crédito/débito, PIX, boleto, ShopeePay e carteiras digitais. Escolha a melhor opção no checkout!",
+    "confidence": 0.9,
+    "category": "pagamento"
+  },
+  {
+    "question": "como pagar com pix",
+    "response": "No checkout, selecione PIX > gere o QR Code ou copie a chave > pague no seu banco > confirme o pagamento!",
+    "confidence": 0.9,
+    "category": "pagamento"
+  },
+  {
+    "question": "não recebi meu produto",
+    "response": "Se passou do prazo: vá em 'Meus Pedidos' > 'Não recebi o produto' > solicite reembolso ou nova entrega. Estamos aqui para ajudar!",
+    "confidence": 0.8,
+    "category": "problemas"
+  },
+  {
+    "question": "produto com defeito",
+    "response": "Para produtos defeituosos: 'Meus Pedidos' > 'Devolver/Reembolsar' > selecione o motivo > siga as instruções. Garantia de 7 dias!",
+    "confidence": 0.8,
+    "category": "devolucao"
+  },
+  {
+    "question": "como devolver produto",
+    "response": "Para devolver: 'Meus Pedidos' > 'Devolver' > motivo da devolução > agende coleta GRATUITA ou vá aos Correios!",
+    "confidence": 0.9,
+    "category": "devolucao"
+  },
+  {
+    "question": "quando recebo o reembolso",
+    "response": "Reembolso PIX: até 1 dia útil. Cartão: 5-10 dias úteis. ShopeePay: instantâneo após aprovação da devolução!",
+    "confidence": 0.8,
+    "category": "reembolso"
+  },
+  {
+    "question": "frete grátis",
+    "response": "Frete grátis em compras acima de R$ 79 (varia por região) ou com Shopee Premium. Veja as condições na página do produto!",
+    "confidence": 0.8,
+    "category": "frete"
+  },
+  {
+    "question": "cupom de desconto",
+    "response": "Encontre cupons em: 'Cupons', na página inicial ou durante eventos especiais. Aplique no checkout para economizar!",
+    "confidence": 0.8,
+    "category": "promocoes"
+  },
+  {
+    "question": "shopee premium",
+    "response": "Shopee Premium: frete grátis ilimitado por R$ 9,90/mês! Mais cupons exclusivos e cashback. Vale muito a pena!",
+    "confidence": 0.9,
+    "category": "premium"
+  },
+  {
+    "question": "como criar conta",
+    "response": "Para criar conta: baixe o app > 'Cadastrar' > use email, telefone ou redes sociais > confirme e pronto! Bem-vindo à Shopee!",
+    "confidence": 0.9,
+    "category": "conta"
+  },
+  {
+    "question": "esqueci minha senha",
+    "response": "Para recuperar senha: tela de login > 'Esqueci a senha' > digite email/telefone > siga as instruções do código recebido!",
+    "confidence": 0.9,
+    "category": "conta"
+  },
+  {
+    "question": "como alterar endereço",
+    "response": "Para alterar endereço: 'Eu' > 'Configurações' > 'Endereços' > adicione ou edite seus endereços de entrega!",
+    "confidence": 0.8,
+    "category": "conta"
+  },
+  {
+    "question": "shopee coins",
+    "response": "Shopee Coins: ganhe fazendo check-in diário, comprando e avaliando! 100 coins = R$ 1,00 de desconto!",
+    "confidence": 0.8,
+    "category": "coins"
+  },
+  {
+    "question": "como usar coins",
+    "response": "Para usar coins: no checkout, marque 'Usar Shopee Coins' > selecione quantos usar > aplique o desconto!",
+    "confidence": 0.8,
+    "category": "coins"
+  },
+  {
+    "question": "produto original",
+    "response": "Compramos apenas de vendedores verificados! Procure pelo selo 'Shopee Garantia' e avaliações positivas para mais segurança!",
+    "confidence": 0.8,
+    "category": "qualidade"
+  },
+  {
+    "question": "como avaliar vendedor",
+    "response": "Para avaliar: 'Meus Pedidos' > pedido entregue > 'Avaliar' > dê nota e comentário. Sua avaliação ajuda outros compradores!",
+    "confidence": 0.8,
+    "category": "avaliacao"
+  },
+  {
+    "question": "chat com vendedor",
+    "response": "Para falar com vendedor: página do produto > 'Chat' > digite sua dúvida. Eles respondem rapidamente!",
+    "confidence": 0.8,
+    "category": "vendedor"
+  },
+  {
+    "question": "flash sale",
+    "response": "Flash Sale: ofertas relâmpago com descontos incríveis! Acompanhe diariamente às 9h, 12h, 18h e 21h!",
+    "confidence": 0.8,
+    "category": "promocoes"
+  },
+  {
+    "question": "live shopping",
+    "response": "Live Shopping: transmissões ao vivo com produtos em promoção! Interaja, faça perguntas e compre com desconto especial!",
+    "confidence": 0.7,
+    "category": "live"
+  },
+  {
+    "question": "shopeepay",
+    "response": "ShopeePay: carteira digital da Shopee! Receba cashback, pague contas, transfira dinheiro e use em milhares de lojas!",
+    "confidence": 0.8,
+    "category": "shopeepay"
+  },
+  {
+    "question": "cashback",
+    "response": "Ganhe cashback comprando com ShopeePay! O dinheiro volta para sua carteira e pode ser usado em novas compras!",
+    "confidence": 0.8,
+    "category": "cashback"
+  },
+  {
+    "question": "jogos shopee",
+    "response": "Shopee Games: jogue daily check-in, Shopee Farm, Quiz Shopee e ganhe coins e cupons grátis! Diversão que dá desconto!",
+    "confidence": 0.7,
+    "category": "jogos"
+  },
+  {
+    "question": "mega sale",
+    "response": "Mega Sale: maior evento de descontos do ano! Acontece várias vezes com ofertas imperdíveis e frete grátis especial!",
+    "confidence": 0.8,
+    "category": "eventos"
+  },
+  {
+    "question": "programa afiliados",
+    "response": "Shopee Affiliate: ganhe comissão indicando produtos! Cadastre-se, compartilhe links e receba por cada venda realizada!",
+    "confidence": 0.7,
+    "category": "afiliados"
+  },
+  {
+    "question": "vender na shopee",
+    "response": "Para vender: baixe o Shopee Seller Centre > cadastre-se > adicione produtos > gerencie pedidos. Comece a vender hoje!",
+    "confidence": 0.8,
+    "category": "vendedor"
+  },
+  {
+    "question": "taxa de venda",
+    "response": "Taxa para vendedores: grátis para começar! Taxas competitivas por transação. Confira detalhes no Seller Centre!",
+    "confidence": 0.7,
+    "category": "vendedor"
+  },
+  {
+    "question": "suporte técnico",
+    "response": "Problemas técnicos? Tente: atualizar app, limpar cache, verificar internet. Persiste? Entre em contato pelo 'Ajuda'!",
+    "confidence": 0.8,
+    "category": "suporte"
+  },
+  {
+    "question": "app não funciona",
+    "response": "App com problemas? Tente: fechar e abrir novamente, atualizar para última versão, reiniciar celular. Isso resolve na maioria dos casos!",
+    "confidence": 0.8,
+    "category": "suporte"
+  },
+  {
+    "question": "obrigado",
+    "response": "De nada! Foi um prazer ajudar! 😊 Continue aproveitando as melhores ofertas da Shopee!",
+    "confidence": 0.9,
+    "category": "agradecimento"
+  },
+  {
+    "question": "muito obrigado",
+    "response": "Fico muito feliz em ter ajudado! Volte sempre que precisar. Boas compras na Shopee! 🛒",
+    "confidence": 0.9,
+    "category": "agradecimento"
+  },
+  {
+    "question": "tchau",
+    "response": "Tchau! Obrigado por escolher a Shopee! Volte sempre para as melhores ofertas! 👋🛍️",
+    "confidence": 0.9,
+    "category": "despedida"
+  },
+  {
+    "question": "até logo",
+    "response": "Até logo! Continue de olho nas nossas promoções diárias! Nos vemos em breve! 🎉",
+    "confidence": 0.9,
+    "category": "despedida"
+  },
+  {
+    "question": "como calcular frete",
+    "response": "O frete é calculado automaticamente com base no CEP, peso e tamanho do produto. Veja o valor exato na página do produto antes de finalizar!",
+    "confidence": 0.8,
+    "category": "frete"
+  },
+  {
+    "question": "pedido não chegou no prazo",
+    "response": "Se passou do prazo estimado, você pode: solicitar extensão do prazo ou pedir reembolso em 'Meus Pedidos' > 'Não recebi o produto'.",
+    "confidence": 0.9,
+    "category": "problemas"
+  },
+  {
+    "question": "como usar shopee garantia",
+    "response": "Shopee Garantia protege sua compra! Se houver problemas, seu dinheiro fica retido até você confirmar que está tudo ok com o produto.",
+    "confidence": 0.8,
+    "category": "garantia"
+  },
+  {
+    "question": "diferença entre shopee e shopee mall",
+    "response": "Shopee Mall: produtos vendidos diretamente pela Shopee ou marcas oficiais, com maior garantia. Shopee normal: marketplace com diversos vendedores.",
+    "confidence": 0.8,
+    "category": "mall"
+  },
+  {
+    "question": "como funciona o carrinho de compras",
+    "response": "Adicione produtos ao carrinho, revise itens, aplique cupons, escolha endereço e forma de pagamento, depois finalize a compra!",
+    "confidence": 0.9,
+    "category": "compras"
+  },
+  {
+    "question": "limite de compra por dia",
+    "response": "Não há limite específico de compras por dia, mas pode haver limites por método de pagamento. Cartões têm limite próprio do banco.",
+    "confidence": 0.7,
+    "category": "limites"
+  },
+  {
+    "question": "como acompanhar promoções",
+    "response": "Ative notificações no app, siga @ShopeeBrasil nas redes sociais e confira a página inicial diariamente para não perder ofertas!",
+    "confidence": 0.8,
+    "category": "promocoes"
+  },
+  {
+    "question": "produto em pré-venda",
+    "response": "Pré-venda: você reserva o produto e paga agora, mas ele só será enviado na data indicada pelo vendedor. Fique atento ao prazo!",
+    "confidence": 0.8,
+    "category": "pre-venda"
+  },
+  {
+    "question": "como funciona lista de desejos",
+    "response": "Clique no coração ❤️ para adicionar à lista de desejos. Acesse em 'Eu' > 'Lista de Desejos' para ver produtos salvos e acompanhar preços!",
+    "confidence": 0.9,
+    "category": "lista-desejos"
+  },
+  {
+    "question": "shopee express",
+    "response": "Shopee Express: entrega própria da Shopee, mais rápida e confiável! Produtos elegíveis têm essa opção disponível no checkout.",
+    "confidence": 0.8,
+    "category": "express"
+  },
+  {
+    "question": "como denunciar produto falso",
+    "response": "Para denunciar produto suspeito: página do produto > 'Denunciar' > selecione motivo. Nossa equipe investigará e tomará medidas necessárias.",
+    "confidence": 0.9,
+    "category": "denuncia"
+  },
+  {
+    "question": "política de troca",
+    "response": "Troca gratuita em até 7 dias após entrega, produto sem uso e na embalagem original. Alguns itens não são elegíveis (íntimos, alimentos).",
+    "confidence": 0.8,
+    "category": "politica"
+  },
+  {
+    "question": "como funciona entrega programada",
+    "response": "Entrega programada: escolha dia e período para receber (quando disponível). Taxa adicional pode ser cobrada dependendo da região.",
+    "confidence": 0.7,
+    "category": "entrega-programada"
+  },
+  {
+    "question": "o que é shopee food",
+    "response": "Shopee Food: delivery de comida integrado ao app Shopee! Peça refeições e ganhe coins para usar nas compras. Disponível em cidades selecionadas.",
+    "confidence": 0.7,
+    "category": "food"
+  },
+  {
+    "question": "como funciona programa de indicação",
+    "response": "Indique amigos e ganhem ambos! Compartilhe seu código, quando ele fizer primeira compra, vocês recebem cupons de desconto!",
+    "confidence": 0.8,
+    "category": "indicacao"
+  },
+  {
+    "question": "problemas com vendedor",
+    "response": "Problemas com vendedor? Tente resolver no chat primeiro. Se não resolver, abra disputa em 'Meus Pedidos' > 'Suporte ao Cliente'.",
+    "confidence": 0.9,
+    "category": "vendedor"
+  },
+  {
+    "question": "como funciona avaliação com foto",
+    "response": "Ao avaliar, adicione fotos do produto recebido. Avaliações com foto ganham mais coins e ajudam outros compradores a decidir melhor!",
+    "confidence": 0.8,
+    "category": "avaliacao"
+  },
+  {
+    "question": "shopee internacional",
+    "response": "Produtos internacionais têm prazo maior (15-45 dias) e podem ter taxa de importação. Verifique descrição antes de comprar!",
+    "confidence": 0.7,
+    "category": "internacional"
+  },
+  {
+    "question": "como cancelar assinatura premium",
+    "response": "Para cancelar Premium: 'Eu' > 'Shopee Premium' > 'Gerenciar Assinatura' > 'Cancelar'. Benefícios valem até fim do período pago.",
+    "confidence": 0.9,
+    "category": "premium"
+  },
+  {
+    "question": "produto com desconto suspeito",
+    "response": "Descontos muito altos podem ser suspeitos. Verifique avaliações, vendedor verificado e se não é produto falsificado. Na dúvida, evite!",
+    "confidence": 0.8,
+    "category": "seguranca"
+  },
+  {
+    "question": "como usar cartão presente",
+    "response": "No checkout, selecione 'Cartão Presente' > digite código > aplique desconto. Verifique validade e termos de uso do cartão.",
+    "confidence": 0.8,
+    "category": "cartao-presente"
+  },
+  {
+    "question": "entrega em ponto de retirada",
+    "response": "Selecione ponto de retirada no checkout, retire em até 7 dias com documento. Mais seguro e prático em alguns casos!",
+    "confidence": 0.8,
+    "category": "ponto-retirada"
+  },
+  {
+    "question": "como funciona compra recorrente",
+    "response": "Para produtos do dia a dia, configure compra automática mensal. Economia de tempo e possíveis descontos especiais!",
+    "confidence": 0.7,
+    "category": "recorrente"
+  },
+  {
+    "question": "shopee university",
+    "response": "Shopee University: cursos online para vendedores aprenderem a vender melhor na plataforma. Gratuito e com certificação!",
+    "confidence": 0.7,
+    "category": "education"
+  },
+  {
+    "question": "como funciona cashback",
+    "response": "Cashback: porcentagem do valor gasto volta como crédito ShopeePay. Varia por produto e promoção. Use o dinheiro em novas compras!",
+    "confidence": 0.8,
+    "category": "cashback"
+  },
+  {
+    "question": "produto indisponível",
+    "response": "Produto em falta? Clique em 'Avisar quando disponível' para ser notificado. Ou procure produtos similares de outros vendedores!",
+    "confidence": 0.8,
+    "category": "estoque"
+  },
+  {
+    "question": "como comparar produtos",
+    "response": "Use filtros por preço, avaliação e vendas. Compare especificações, fotos e comentários. Lista de desejos ajuda a acompanhar preços!",
+    "confidence": 0.8,
+    "category": "comparacao"
+  },
+  {
+    "question": "segurança dos dados",
+    "response": "Seus dados são protegidos com criptografia. Nunca compartilhe senha ou dados pessoais. Sempre compre pelo app/site oficial da Shopee!",
+    "confidence": 0.9,
+    "category": "seguranca"
+  },
+  {
+    "question": "como funciona programa vip",
+    "response": "Programa VIP com níveis Bronze, Prata, Ouro e Diamante. Mais benefícios conforme você compra: frete grátis, cupons exclusivos e cashback maior!",
+    "confidence": 0.8,
+    "category": "vip"
+  },
+  {
+    "question": "entrega expressa",
+    "response": "Entrega expressa disponível em algumas regiões, produtos chegam em 1-2 dias. Taxa adicional mas ideal para emergências!",
+    "confidence": 0.7,
+    "category": "entrega-expressa"
+  },
+  {
+    "question": "quero alterar meus dados",
+    "response": "Informamos que não somos responsáveis pela gestão de entregas. Para alteração de dados pessoais ou informações da conta, solicitamos que entre em contato diretamente com o atendimento oficial da Shopee.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "alterar dados da compra",
+    "response": "Para alterações nos dados da compra, é necessário contatar o suporte oficial da Shopee, pois não temos acesso ao sistema de pedidos para realizar modificações.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "meu endereço está errado",
+    "response": "Entendemos sua preocupação com o endereço incorreto. Como não gerenciamos as entregas, recomendamos entrar em contato com a Shopee o quanto antes para correção do endereço de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "coloquei o endereço errado quero alterar",
+    "response": "Para correção de endereço de entrega, é fundamental contatar rapidamente o atendimento da Shopee, pois eles são os responsáveis por gerenciar e alterar os dados de entrega dos pedidos.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso mudar o endereço do pedido",
+    "response": "Orientamos que entre em contato com o suporte da Shopee para alteração do endereço de entrega, visto que não temos autorização para modificar dados de pedidos já realizados.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "como alterar endereço de entrega",
+    "response": "A alteração do endereço de entrega deve ser solicitada diretamente à Shopee através do atendimento oficial, pois são eles que possuem acesso ao sistema de logística e entregas.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "quero mudar meus dados pessoais",
+    "response": "Para modificações em dados pessoais cadastrais, é necessário acessar sua conta na Shopee ou contatar o suporte oficial, uma vez que não temos acesso a informações pessoais de usuários.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso corrigir o cep",
+    "response": "Correções de CEP devem ser tratadas diretamente com a Shopee, pois eles são responsáveis pela validação e gestão dos dados de entrega dos pedidos realizados na plataforma.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "erro no endereço de entrega",
+    "response": "Em caso de erro no endereço de entrega, é imprescindível contatar o atendimento da Shopee imediatamente, pois somente eles podem realizar alterações nos dados de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "quero trocar o endereço",
+    "response": "Para troca de endereço de entrega, recomendamos entrar em contato com o suporte oficial da Shopee o mais breve possível, visto que não gerenciamos o processo de entregas.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "digitei errado o endereço",
+    "response": "Compreendemos o equívoco com o endereço. Como não temos acesso ao sistema de entregas, orientamos que procure o atendimento oficial da Shopee para correção dos dados.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso atualizar meu endereço",
+    "response": "Atualizações de endereço devem ser solicitadas diretamente à Shopee através dos canais oficiais de atendimento, pois são eles os responsáveis pela gestão das informações de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "como mudar dados do pedido",
+    "response": "Alterações nos dados do pedido são de responsabilidade exclusiva da Shopee. Solicitamos que entre em contato com o suporte oficial para realizar as modificações necessárias.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "endereço incorreto no pedido",
+    "response": "Para resolução de endereço incorreto no pedido, é essencial contatar a Shopee diretamente, uma vez que não possuímos autorização para alterar dados de pedidos em andamento.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "quero corrigir meus dados",
+    "response": "Correções de dados devem ser tratadas com o atendimento oficial da Shopee, pois eles possuem acesso completo ao sistema para realizar as alterações necessárias em sua conta.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso mudar o telefone",
+    "response": "Para alteração de número de telefone, recomendamos acessar sua conta na Shopee ou contatar o suporte oficial, visto que não temos acesso para modificar dados pessoais de usuários.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "como alterar dados pessoais",
+    "response": "Modificações em dados pessoais devem ser realizadas através da própria plataforma Shopee ou solicitadas ao suporte oficial, pois não temos permissão para acessar informações pessoais.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "erro nos dados do pedido",
+    "response": "Em caso de erro nos dados do pedido, orientamos contatar imediatamente o atendimento da Shopee, uma vez que são eles os responsáveis por gerenciar e corrigir informações de pedidos.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso alterar o nome no pedido",
+    "response": "Alterações no nome do pedido devem ser solicitadas diretamente à Shopee através do atendimento oficial, pois não temos acesso ao sistema para realizar modificações em dados de pedidos.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "quero mudar o destinatário",
+    "response": "Para mudança de destinatário, é necessário entrar em contato com o suporte da Shopee o quanto antes, visto que eles são responsáveis pela gestão e alteração dos dados de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "como trocar endereço de cobrança",
+    "response": "Alterações no endereço de cobrança devem ser realizadas através da conta do usuário na Shopee ou solicitadas ao atendimento oficial, pois não gerenciamos dados financeiros dos clientes.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "erro no cep do pedido",
+    "response": "Para correção de CEP no pedido, é fundamental contatar a Shopee imediatamente através dos canais oficiais, pois somente eles podem alterar dados de entregas já processadas.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso mudar o número da casa",
+    "response": "Modificações no número da casa devem ser tratadas diretamente com o atendimento da Shopee, uma vez que não temos autorização para alterar informações de endereço de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "quero corrigir o complemento",
+    "response": "Para correção do complemento do endereço, solicitamos que entre em contato com o suporte oficial da Shopee, pois eles possuem acesso ao sistema de entregas para realizar alterações.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "digitei errado meu nome",
+    "response": "Em caso de erro na digitação do nome, recomendamos contatar o atendimento da Shopee rapidamente, pois são eles os responsáveis por validar e corrigir dados pessoais nos pedidos.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso alterar cidade no endereço",
+    "response": "Alterações na cidade do endereço de entrega devem ser solicitadas urgentemente à Shopee, visto que não temos acesso ao sistema logístico para realizar tais modificações.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "erro no estado do endereço",
+    "response": "Para correção do estado no endereço, é essencial entrar em contato com o suporte oficial da Shopee o mais breve possível, pois eles gerenciam todas as informações de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "quero mudar ponto de referência",
+    "response": "Modificações no ponto de referência devem ser comunicadas diretamente à Shopee através do atendimento oficial, uma vez que não temos acesso para alterar detalhes de endereço.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "como alterar bairro no pedido",
+    "response": "Para alteração do bairro no pedido, orientamos contatar imediatamente o suporte da Shopee, pois somente eles possuem autorização para modificar dados de localização de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso corrigir dados urgente",
+    "response": "Entendemos a urgência da situação. Para correções urgentes de dados, recomendamos entrar em contato imediatamente com o atendimento oficial da Shopee, pois eles têm acesso prioritário ao sistema.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso mudar o endereço pois não moro nesse local",
+    "response": "Compreendemos que você mudou de residência. Como não gerenciamos alterações de endereço, é necessário entrar em contato com o atendimento oficial da Shopee o mais rápido possível para atualizar seu endereço de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o número do endereço está errado",
+    "response": "Para correção do número do endereço, orientamos contatar imediatamente o suporte da Shopee, pois eles são responsáveis por gerenciar e corrigir os dados de entrega dos pedidos.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "coloquei o número errado da casa",
+    "response": "Entendemos o equívoco com o número da casa. Como não temos acesso ao sistema de entregas, recomendamos entrar em contato com a Shopee urgentemente para corrigir essa informação.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "me mudei e preciso alterar o endereço",
+    "response": "Para mudança de residência, é fundamental contatar o atendimento da Shopee imediatamente, pois somente eles podem atualizar seu novo endereço no sistema de entregas.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "não moro mais nesse endereço",
+    "response": "Como você não reside mais no endereço cadastrado, é essencial contatar o suporte oficial da Shopee o quanto antes para evitar que o pedido seja entregue no local incorreto.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "mudei de casa e esqueci de alterar",
+    "response": "Compreendemos que esqueceu de atualizar após a mudança. Recomendamos entrar em contato com a Shopee urgentemente, pois não temos autorização para modificar dados de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o endereço está da casa antiga",
+    "response": "Para atualização do endereço da residência anterior, é necessário contatar imediatamente o atendimento da Shopee, visto que não gerenciamos alterações no sistema de entregas.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "digitei o número da casa vizinha",
+    "response": "Para correção do número da casa, orientamos contatar rapidamente o suporte da Shopee, pois eles possuem acesso ao sistema para realizar as alterações necessárias nos dados de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o endereço é do meu trabalho antigo",
+    "response": "Para alteração do endereço de trabalho anterior, é imprescindível contatar o atendimento oficial da Shopee, uma vez que não temos permissão para modificar dados de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso trocar para endereço atual",
+    "response": "Para atualização com seu endereço atual, solicitamos que entre em contato com a Shopee através dos canais oficiais, pois são eles os responsáveis pela gestão dos dados de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o número que coloquei não existe",
+    "response": "Em caso de número inexistente, é urgente contatar o suporte da Shopee para correção, pois não temos acesso ao sistema para realizar alterações nos dados de endereço.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "estou em outro estado agora",
+    "response": "Para mudança de estado, é fundamental entrar em contato com o atendimento da Shopee imediatamente, pois eles precisam atualizar completamente suas informações de localização no sistema.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "mudei de cidade e não atualizei",
+    "response": "Para mudança de cidade, recomendamos contatar urgentemente o suporte oficial da Shopee, visto que não temos autorização para realizar alterações em dados de localização.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o endereço é da casa dos meus pais",
+    "response": "Para alteração do endereço da casa dos pais para sua residência atual, é necessário contatar a Shopee diretamente, pois eles gerenciam todas as modificações de endereço de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "coloquei endereço de onde morava antes",
+    "response": "Para atualização do endereço da residência anterior, orientamos entrar em contato com o atendimento da Shopee o mais breve possível, uma vez que não temos acesso ao sistema de entregas.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o apartamento está errado no endereço",
+    "response": "Para correção do número do apartamento, é essencial contatar o suporte da Shopee imediatamente, pois somente eles podem alterar esses dados no sistema de entregas.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "esqueci de mudar depois que me mudei",
+    "response": "Compreendemos que esqueceu de atualizar após a mudança. É importante contatar a Shopee urgentemente através dos canais oficiais para evitar problemas na entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "digitei o endereço do meu ex",
+    "response": "Para alteração do endereço anterior, recomendamos entrar em contato com o atendimento oficial da Shopee o quanto antes, pois não gerenciamos modificações nos dados de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o endereço está da casa alugada antiga",
+    "response": "Para atualização do endereço da casa alugada anterior, é fundamental contatar o suporte da Shopee imediatamente, visto que não temos autorização para alterar dados de localização.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso atualizar pois me mudei ontem",
+    "response": "Para mudanças recentes de residência, é urgente contatar o atendimento da Shopee, pois eles precisam atualizar rapidamente seus dados para evitar entregas no endereço anterior.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o endereço é da republica que morava",
+    "response": "Para alteração do endereço da república anterior, orientamos contatar imediatamente o suporte oficial da Shopee, uma vez que não temos acesso para modificar dados de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "digitei errado o nome da rua",
+    "response": "Para correção do nome da rua, é necessário entrar em contato com a Shopee através dos canais oficiais, pois eles são responsáveis por validar e corrigir informações de endereço.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "a rua mudou de nome e não sabia",
+    "response": "Para atualização de nome de rua alterado, recomendamos contatar o atendimento da Shopee, pois eles precisam verificar e atualizar as informações de localização no sistema.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o endereço é da empresa onde não trabalho mais",
+    "response": "Para alteração do endereço da empresa anterior, é essencial contatar o suporte da Shopee urgentemente, visto que não temos permissão para modificar dados de entrega comercial.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso mudar para casa da minha mãe",
+    "response": "Para alteração do endereço para a casa da sua mãe, solicitamos que entre em contato com o atendimento oficial da Shopee, pois eles gerenciam todas as modificações de local de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o endereço está da faculdade antiga",
+    "response": "Para atualização do endereço da instituição anterior, é fundamental contatar a Shopee imediatamente, uma vez que não temos acesso ao sistema para realizar alterações acadêmicas de endereço.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "coloquei cep antigo sem querer",
+    "response": "Para correção do CEP anterior, orientamos contatar rapidamente o suporte da Shopee, pois eles precisam validar e atualizar o código postal correto no sistema de entregas.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o endereço é do hotel que estava hospedado",
+    "response": "Para alteração do endereço de hospedagem temporária, é urgente contatar o atendimento da Shopee, visto que não gerenciamos modificações em endereços de estadia temporária.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "estava viajando e coloquei endereço errado",
+    "response": "Para correção de endereço informado durante viagem, recomendamos entrar em contato com a Shopee urgentemente, pois não temos autorização para alterar dados de entrega de localização temporária.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso entregar na casa nova não na antiga",
+    "response": "Para entrega na nova residência ao invés da anterior, é essencial contatar o suporte oficial da Shopee imediatamente, pois somente eles podem redirecionar a entrega para o endereço correto.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "cancela o pedido",
+    "response": "Infelizmente não podemos cancelar pedidos. Para cancelamento, entre em contato com o atendimento oficial da Shopee através do app ou site, pois eles têm acesso ao sistema de pedidos.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "quero cancelar meu pedido",
+    "response": "Não temos autorização para cancelar pedidos. Recomendamos entrar em contato com o suporte oficial da Shopee o mais rápido possível para solicitar o cancelamento.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "como cancelar pedido",
+    "response": "Para cancelamento de pedidos, acesse 'Meus Pedidos' no app Shopee ou entre em contato com o atendimento oficial. Infelizmente não podemos processar cancelamentos.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "preciso cancelar a compra",
+    "response": "Lamentamos mas não podemos cancelar compras. Para cancelamento, é necessário contatar diretamente o suporte da Shopee através dos canais oficiais.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "não quero mais o pedido",
+    "response": "Compreendemos que não deseja mais o pedido. Infelizmente não temos acesso para cancelamentos, mas o atendimento oficial da Shopee pode ajudar com essa solicitação.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "desistir do pedido",
+    "response": "Para desistência de pedido, orientamos entrar em contato com o suporte da Shopee imediatamente. Não podemos processar cancelamentos, mas eles têm essa autorização.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "cancelamento de pedido",
+    "response": "Cancelamentos de pedidos devem ser solicitados diretamente à Shopee. Infelizmente não temos permissão para cancelar pedidos, mas o atendimento oficial pode processar sua solicitação.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "quero parar o pedido",
+    "response": "Para interromper um pedido, é necessário contatar o atendimento da Shopee urgentemente. Não temos acesso ao sistema para parar pedidos em andamento.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "não consigo cancelar",
+    "response": "Se está com dificuldades para cancelar, recomendamos entrar em contato com o suporte oficial da Shopee. Eles podem orientar sobre o processo e verificar se o cancelamento ainda é possível.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "pedido errado quero cancelar",
+    "response": "Em caso de pedido incorreto, é urgente contatar a Shopee para cancelamento. Infelizmente não podemos cancelar, mas eles podem verificar se ainda há tempo para o cancelamento.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "comprei errado cancela",
+    "response": "Entendemos que foi um erro na compra. Para cancelamento, entre em contato com o atendimento da Shopee imediatamente, pois não temos autorização para cancelar pedidos.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "como desfazer pedido",
+    "response": "Para desfazer um pedido, acesse 'Meus Pedidos' no app Shopee ou contate o suporte oficial. Infelizmente não podemos desfazer pedidos, mas eles têm essa funcionalidade.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "reverter compra",
+    "response": "Para reverter uma compra, é necessário solicitar cancelamento através do atendimento oficial da Shopee. Não temos acesso para reverter transações.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "estornar pedido",
+    "response": "Para estorno de pedido, recomendamos contatar o suporte da Shopee através dos canais oficiais. Infelizmente não temos permissão para processar estornos.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "não quero mais comprar",
+    "response": "Se não deseja mais finalizar a compra, entre em contato com o atendimento da Shopee para verificar opções de cancelamento. Não podemos cancelar pedidos.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "mudei de ideia sobre o pedido",
+    "response": "Compreendemos que mudou de ideia. Para cancelamento do pedido, é necessário contatar o suporte oficial da Shopee o mais rápido possível.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "anular pedido",
+    "response": "Para anulação de pedido, orientamos entrar em contato com o atendimento da Shopee imediatamente. Infelizmente não temos autorização para anular pedidos.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "remover pedido",
+    "response": "Remoção de pedidos deve ser solicitada diretamente ao suporte da Shopee. Não temos acesso para remover pedidos do sistema.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "excluir pedido",
+    "response": "Para exclusão de pedido, recomendamos contatar o atendimento oficial da Shopee. Não podemos excluir pedidos, mas eles podem verificar as opções disponíveis.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "não vai dar tempo cancela",
+    "response": "Entendemos a urgência. Para cancelamento rápido, entre em contato com o suporte da Shopee imediatamente através do chat no app. Infelizmente não podemos cancelar.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "produto errado quero cancelar",
+    "response": "Em caso de produto incorreto no pedido, contate urgentemente o atendimento da Shopee para cancelamento. Não temos acesso para alterar ou cancelar pedidos.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "valor errado cancela pedido",
+    "response": "Para cancelamento devido a valor incorreto, é essencial contatar o suporte da Shopee imediatamente. Infelizmente não podemos processar cancelamentos.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "não consegui pagar cancela",
+    "response": "Se não conseguiu efetuar o pagamento, entre em contato com o atendimento da Shopee para verificar o status e possível cancelamento. Não podemos cancelar pedidos.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "problema no pagamento cancela",
+    "response": "Para problemas de pagamento que requerem cancelamento, recomendamos contatar o suporte da Shopee urgentemente. Não temos autorização para cancelar.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "cartão recusado cancela pedido",
+    "response": "Em caso de cartão recusado, contate o atendimento da Shopee para verificar o status do pedido e possível cancelamento. Infelizmente não podemos cancelar.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "meu produto veio com defeito",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto chegou defeituoso",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "o produto não funciona",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com problema",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "celular veio quebrado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "tela do celular está rachada",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto não liga",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "fone de ouvido não funciona",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "carregador veio queimado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "roupa veio rasgada",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "sapato veio com defeito",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto chegou danificado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "veio com arranhão",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto está amassado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "notebook não liga",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "mouse não funciona",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "teclado com defeito",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto veio quebrado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "caixa de som não funciona",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "relógio parou de funcionar",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto veio usado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto veio sujo",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "cabo usb não funciona",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com risco",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto manchado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto não funciona direito",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "comprei e veio estragado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto não presta",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "veio com defeito de fábrica",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto não carrega",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "bateria não funciona",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto falso",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto pirata",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto de má qualidade",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto muito ruim",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto não é o que estava na foto",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto diferente da descrição",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "televisão não liga",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "tela da tv está quebrada",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "microondas não funciona",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "liquidificador quebrado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "ferro de passar roupa não esquenta",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "ventilador não funciona",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "ar condicionado veio quebrado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "geladeira não gela",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "fogão não acende",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "lâmpada queimada",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto veio sem funcionar",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto morto",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto defeituoso de fábrica",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com problema de fabricação",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "brinquedo quebrado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto veio trincado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com rachaduras",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto veio torto",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com cheiro ruim",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com odor estranho",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto descascando",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto desbotado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com defeito na cor",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto deformado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto chegou estragado na embalagem",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto veio sem peças",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "faltando peças do produto",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto incompleto",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto sem manual",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto sem acessórios",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com barulho estranho",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto fazendo ruído",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto travando",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto lento demais",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto esquenta muito",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto descarrega rápido",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto não segura carga",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com tela piscando",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com imagem ruim",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto sem som",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com chiado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com interferência",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "cabo do produto partido",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto veio molhado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com mofo",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com fungos",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto enferrujado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto oxidado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto descascado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto riscado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com bolhas",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com furos",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto veio vazio",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "recebeu produto errado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto não é como esperado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto horrível",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto péssimo",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto lixo",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  }
+]

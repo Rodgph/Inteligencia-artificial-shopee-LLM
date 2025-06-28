@@ -1,0 +1,242 @@
+[
+  {
+    "question": "não quero devolver pode mandar novamente",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "pode enviar outro produto",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "quero que mande outro produto",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "pode mandar um novo produto",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "sem devolver quero outro produto",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "enviar segunda via do produto",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "segunda entrega do produto",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "reenviar o produto",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "mandar produto novamente",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "enviar outro igual",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "fica com o quebrado e manda outro",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "não devolver e enviar novo",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "trocar por outro produto",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "substituir o produto defeituoso",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "pode enviar de novo",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "mandar outro sem devolução",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "nova entrega do produto",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "reenvia o produto que veio defeituoso",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "quero outro produto igual",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "pode mandar um substituto",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "enviar produto de reposição",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "sem devolver manda outro",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "fica com esse e manda novo",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "produto de substituição",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "entrega de reposição",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "mandar outra unidade",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "refazer a entrega",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "nova remessa do produto",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "quero que substitua o produto",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "pode trocar por outro novo",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "segunda via sem devolução",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "reenvio sem retorno",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "novo envio do mesmo produto",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "mandar outro sem eu devolver",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "enviar duplicata do produto",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "produto substituto",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "não quero devolver quero outro",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "mandar produto de reposição",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "reenviou outra unidade",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  },
+  {
+    "question": "segunda tentativa de entrega",
+    "response": "Infelizmente não realizamos 2° entrega, nosso único método disponível é devolução ou reembolso do produto!",
+    "confidence": 0.95,
+    "category": "reenvio_produto"
+  }
+]

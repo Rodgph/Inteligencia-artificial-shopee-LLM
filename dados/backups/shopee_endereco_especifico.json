@@ -1,0 +1,182 @@
+[
+  {
+    "question": "preciso mudar o endereço pois não moro nesse local",
+    "response": "Compreendemos que você mudou de residência. Como não gerenciamos alterações de endereço, é necessário entrar em contato com o atendimento oficial da Shopee o mais rápido possível para atualizar seu endereço de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o número do endereço está errado",
+    "response": "Para correção do número do endereço, orientamos contatar imediatamente o suporte da Shopee, pois eles são responsáveis por gerenciar e corrigir os dados de entrega dos pedidos.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "coloquei o número errado da casa",
+    "response": "Entendemos o equívoco com o número da casa. Como não temos acesso ao sistema de entregas, recomendamos entrar em contato com a Shopee urgentemente para corrigir essa informação.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "me mudei e preciso alterar o endereço",
+    "response": "Para mudança de residência, é fundamental contatar o atendimento da Shopee imediatamente, pois somente eles podem atualizar seu novo endereço no sistema de entregas.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "não moro mais nesse endereço",
+    "response": "Como você não reside mais no endereço cadastrado, é essencial contatar o suporte oficial da Shopee o quanto antes para evitar que o pedido seja entregue no local incorreto.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "mudei de casa e esqueci de alterar",
+    "response": "Compreendemos que esqueceu de atualizar após a mudança. Recomendamos entrar em contato com a Shopee urgentemente, pois não temos autorização para modificar dados de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o endereço está da casa antiga",
+    "response": "Para atualização do endereço da residência anterior, é necessário contatar imediatamente o atendimento da Shopee, visto que não gerenciamos alterações no sistema de entregas.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "digitei o número da casa vizinha",
+    "response": "Para correção do número da casa, orientamos contatar rapidamente o suporte da Shopee, pois eles possuem acesso ao sistema para realizar as alterações necessárias nos dados de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o endereço é do meu trabalho antigo",
+    "response": "Para alteração do endereço de trabalho anterior, é imprescindível contatar o atendimento oficial da Shopee, uma vez que não temos permissão para modificar dados de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso trocar para endereço atual",
+    "response": "Para atualização com seu endereço atual, solicitamos que entre em contato com a Shopee através dos canais oficiais, pois são eles os responsáveis pela gestão dos dados de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o número que coloquei não existe",
+    "response": "Em caso de número inexistente, é urgente contatar o suporte da Shopee para correção, pois não temos acesso ao sistema para realizar alterações nos dados de endereço.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "estou em outro estado agora",
+    "response": "Para mudança de estado, é fundamental entrar em contato com o atendimento da Shopee imediatamente, pois eles precisam atualizar completamente suas informações de localização no sistema.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "mudei de cidade e não atualizei",
+    "response": "Para mudança de cidade, recomendamos contatar urgentemente o suporte oficial da Shopee, visto que não temos autorização para realizar alterações em dados de localização.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o endereço é da casa dos meus pais",
+    "response": "Para alteração do endereço da casa dos pais para sua residência atual, é necessário contatar a Shopee diretamente, pois eles gerenciam todas as modificações de endereço de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "coloquei endereço de onde morava antes",
+    "response": "Para atualização do endereço da residência anterior, orientamos entrar em contato com o atendimento da Shopee o mais breve possível, uma vez que não temos acesso ao sistema de entregas.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o apartamento está errado no endereço",
+    "response": "Para correção do número do apartamento, é essencial contatar o suporte da Shopee imediatamente, pois somente eles podem alterar esses dados no sistema de entregas.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "esqueci de mudar depois que me mudei",
+    "response": "Compreendemos que esqueceu de atualizar após a mudança. É importante contatar a Shopee urgentemente através dos canais oficiais para evitar problemas na entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "digitei o endereço do meu ex",
+    "response": "Para alteração do endereço anterior, recomendamos entrar em contato com o atendimento oficial da Shopee o quanto antes, pois não gerenciamos modificações nos dados de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o endereço está da casa alugada antiga",
+    "response": "Para atualização do endereço da casa alugada anterior, é fundamental contatar o suporte da Shopee imediatamente, visto que não temos autorização para alterar dados de localização.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso atualizar pois me mudei ontem",
+    "response": "Para mudanças recentes de residência, é urgente contatar o atendimento da Shopee, pois eles precisam atualizar rapidamente seus dados para evitar entregas no endereço anterior.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o endereço é da republica que morava",
+    "response": "Para alteração do endereço da república anterior, orientamos contatar imediatamente o suporte oficial da Shopee, uma vez que não temos acesso para modificar dados de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "digitei errado o nome da rua",
+    "response": "Para correção do nome da rua, é necessário entrar em contato com a Shopee através dos canais oficiais, pois eles são responsáveis por validar e corrigir informações de endereço.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "a rua mudou de nome e não sabia",
+    "response": "Para atualização de nome de rua alterado, recomendamos contatar o atendimento da Shopee, pois eles precisam verificar e atualizar as informações de localização no sistema.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o endereço é da empresa onde não trabalho mais",
+    "response": "Para alteração do endereço da empresa anterior, é essencial contatar o suporte da Shopee urgentemente, visto que não temos permissão para modificar dados de entrega comercial.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso mudar para casa da minha mãe",
+    "response": "Para alteração do endereço para a casa da sua mãe, solicitamos que entre em contato com o atendimento oficial da Shopee, pois eles gerenciam todas as modificações de local de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o endereço está da faculdade antiga",
+    "response": "Para atualização do endereço da instituição anterior, é fundamental contatar a Shopee imediatamente, uma vez que não temos acesso ao sistema para realizar alterações acadêmicas de endereço.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "coloquei cep antigo sem querer",
+    "response": "Para correção do CEP anterior, orientamos contatar rapidamente o suporte da Shopee, pois eles precisam validar e atualizar o código postal correto no sistema de entregas.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "o endereço é do hotel que estava hospedado",
+    "response": "Para alteração do endereço de hospedagem temporária, é urgente contatar o atendimento da Shopee, visto que não gerenciamos modificações em endereços de estadia temporária.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "estava viajando e coloquei endereço errado",
+    "response": "Para correção de endereço informado durante viagem, recomendamos entrar em contato com a Shopee urgentemente, pois não temos autorização para alterar dados de entrega de localização temporária.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso entregar na casa nova não na antiga",
+    "response": "Para entrega na nova residência ao invés da anterior, é essencial contatar o suporte oficial da Shopee imediatamente, pois somente eles podem redirecionar a entrega para o endereço correto.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  }
+]

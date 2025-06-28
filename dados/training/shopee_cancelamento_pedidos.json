@@ -1,0 +1,152 @@
+[
+  {
+    "question": "cancela o pedido",
+    "response": "Infelizmente não podemos cancelar pedidos. Para cancelamento, entre em contato com o atendimento oficial da Shopee através do app ou site, pois eles têm acesso ao sistema de pedidos.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "quero cancelar meu pedido",
+    "response": "Não temos autorização para cancelar pedidos. Recomendamos entrar em contato com o suporte oficial da Shopee o mais rápido possível para solicitar o cancelamento.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "como cancelar pedido",
+    "response": "Para cancelamento de pedidos, acesse 'Meus Pedidos' no app Shopee ou entre em contato com o atendimento oficial. Infelizmente não podemos processar cancelamentos.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "preciso cancelar a compra",
+    "response": "Lamentamos mas não podemos cancelar compras. Para cancelamento, é necessário contatar diretamente o suporte da Shopee através dos canais oficiais.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "não quero mais o pedido",
+    "response": "Compreendemos que não deseja mais o pedido. Infelizmente não temos acesso para cancelamentos, mas o atendimento oficial da Shopee pode ajudar com essa solicitação.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "desistir do pedido",
+    "response": "Para desistência de pedido, orientamos entrar em contato com o suporte da Shopee imediatamente. Não podemos processar cancelamentos, mas eles têm essa autorização.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "cancelamento de pedido",
+    "response": "Cancelamentos de pedidos devem ser solicitados diretamente à Shopee. Infelizmente não temos permissão para cancelar pedidos, mas o atendimento oficial pode processar sua solicitação.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "quero parar o pedido",
+    "response": "Para interromper um pedido, é necessário contatar o atendimento da Shopee urgentemente. Não temos acesso ao sistema para parar pedidos em andamento.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "não consigo cancelar",
+    "response": "Se está com dificuldades para cancelar, recomendamos entrar em contato com o suporte oficial da Shopee. Eles podem orientar sobre o processo e verificar se o cancelamento ainda é possível.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "pedido errado quero cancelar",
+    "response": "Em caso de pedido incorreto, é urgente contatar a Shopee para cancelamento. Infelizmente não podemos cancelar, mas eles podem verificar se ainda há tempo para o cancelamento.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "comprei errado cancela",
+    "response": "Entendemos que foi um erro na compra. Para cancelamento, entre em contato com o atendimento da Shopee imediatamente, pois não temos autorização para cancelar pedidos.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "como desfazer pedido",
+    "response": "Para desfazer um pedido, acesse 'Meus Pedidos' no app Shopee ou contate o suporte oficial. Infelizmente não podemos desfazer pedidos, mas eles têm essa funcionalidade.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "reverter compra",
+    "response": "Para reverter uma compra, é necessário solicitar cancelamento através do atendimento oficial da Shopee. Não temos acesso para reverter transações.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "estornar pedido",
+    "response": "Para estorno de pedido, recomendamos contatar o suporte da Shopee através dos canais oficiais. Infelizmente não temos permissão para processar estornos.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "não quero mais comprar",
+    "response": "Se não deseja mais finalizar a compra, entre em contato com o atendimento da Shopee para verificar opções de cancelamento. Não podemos cancelar pedidos.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "mudei de ideia sobre o pedido",
+    "response": "Compreendemos que mudou de ideia. Para cancelamento do pedido, é necessário contatar o suporte oficial da Shopee o mais rápido possível.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "anular pedido",
+    "response": "Para anulação de pedido, orientamos entrar em contato com o atendimento da Shopee imediatamente. Infelizmente não temos autorização para anular pedidos.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "remover pedido",
+    "response": "Remoção de pedidos deve ser solicitada diretamente ao suporte da Shopee. Não temos acesso para remover pedidos do sistema.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "excluir pedido",
+    "response": "Para exclusão de pedido, recomendamos contatar o atendimento oficial da Shopee. Não podemos excluir pedidos, mas eles podem verificar as opções disponíveis.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "não vai dar tempo cancela",
+    "response": "Entendemos a urgência. Para cancelamento rápido, entre em contato com o suporte da Shopee imediatamente através do chat no app. Infelizmente não podemos cancelar.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "produto errado quero cancelar",
+    "response": "Em caso de produto incorreto no pedido, contate urgentemente o atendimento da Shopee para cancelamento. Não temos acesso para alterar ou cancelar pedidos.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "valor errado cancela pedido",
+    "response": "Para cancelamento devido a valor incorreto, é essencial contatar o suporte da Shopee imediatamente. Infelizmente não podemos processar cancelamentos.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "não consegui pagar cancela",
+    "response": "Se não conseguiu efetuar o pagamento, entre em contato com o atendimento da Shopee para verificar o status e possível cancelamento. Não podemos cancelar pedidos.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "problema no pagamento cancela",
+    "response": "Para problemas de pagamento que requerem cancelamento, recomendamos contatar o suporte da Shopee urgentemente. Não temos autorização para cancelar.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  },
+  {
+    "question": "cartão recusado cancela pedido",
+    "response": "Em caso de cartão recusado, contate o atendimento da Shopee para verificar o status do pedido e possível cancelamento. Infelizmente não podemos cancelar.",
+    "confidence": 0.95,
+    "category": "cancelamento_pedido"
+  }
+]

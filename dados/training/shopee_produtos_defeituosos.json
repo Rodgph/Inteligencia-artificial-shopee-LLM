@@ -1,0 +1,572 @@
+[
+  {
+    "question": "meu produto veio com defeito",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto chegou defeituoso",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "o produto não funciona",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com problema",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "celular veio quebrado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "tela do celular está rachada",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto não liga",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "fone de ouvido não funciona",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "carregador veio queimado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "roupa veio rasgada",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "sapato veio com defeito",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto chegou danificado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "veio com arranhão",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto está amassado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "notebook não liga",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "mouse não funciona",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "teclado com defeito",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto veio quebrado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "caixa de som não funciona",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "relógio parou de funcionar",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto veio usado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto veio sujo",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "cabo usb não funciona",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com risco",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto manchado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto não funciona direito",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "comprei e veio estragado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto não presta",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "veio com defeito de fábrica",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto não carrega",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "bateria não funciona",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto falso",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto pirata",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto de má qualidade",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto muito ruim",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto não é o que estava na foto",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto diferente da descrição",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "televisão não liga",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "tela da tv está quebrada",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "microondas não funciona",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "liquidificador quebrado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "ferro de passar roupa não esquenta",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "ventilador não funciona",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "ar condicionado veio quebrado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "geladeira não gela",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "fogão não acende",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "lâmpada queimada",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto veio sem funcionar",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto morto",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto defeituoso de fábrica",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com problema de fabricação",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "brinquedo quebrado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto veio trincado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com rachaduras",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto veio torto",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com cheiro ruim",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com odor estranho",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto descascando",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto desbotado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com defeito na cor",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto deformado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto chegou estragado na embalagem",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto veio sem peças",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "faltando peças do produto",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto incompleto",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto sem manual",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto sem acessórios",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com barulho estranho",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto fazendo ruído",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto travando",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto lento demais",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto esquenta muito",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto descarrega rápido",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto não segura carga",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com tela piscando",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com imagem ruim",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto sem som",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com chiado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com interferência",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "cabo do produto partido",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto veio molhado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com mofo",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com fungos",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto enferrujado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto oxidado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto descascado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto riscado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com bolhas",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto com furos",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto veio vazio",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "recebeu produto errado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto não é como esperado",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto horrível",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto péssimo",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  },
+  {
+    "question": "produto lixo",
+    "response": "Pedimos desculpas pelo ocorrido. Você poderá solicitar a Devolução e reembolso nos Detalhes do Pedido. Faça o solicitação como mudança de ideia para receber o reembolso mais rápido pela Shopee.",
+    "confidence": 0.95,
+    "category": "produto_defeituoso"
+  }
+]

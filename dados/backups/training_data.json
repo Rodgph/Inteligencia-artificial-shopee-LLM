@@ -1,0 +1,248 @@
+[
+  {
+    "question": "olá",
+    "response": "Olá! Bem-vindo ao atendimento da Shopee! 🛍️ Como posso ajudá-lo hoje?",
+    "confidence": 0.9,
+    "category": "saudacao"
+  },
+  {
+    "question": "oi",
+    "response": "Oi! Sou o assistente virtual da Shopee. Em que posso ajudá-lo?",
+    "confidence": 0.9,
+    "category": "saudacao"
+  },
+  {
+    "question": "bom dia",
+    "response": "Bom dia! Seja bem-vindo à Shopee! Como posso auxiliá-lo hoje?",
+    "confidence": 0.9,
+    "category": "saudacao"
+  },
+  {
+    "question": "boa tarde",
+    "response": "Boa tarde! Estou aqui para ajudar com suas compras na Shopee!",
+    "confidence": 0.9,
+    "category": "saudacao"
+  },
+  {
+    "question": "boa noite",
+    "response": "Boa noite! Como posso tornar sua experiência na Shopee ainda melhor?",
+    "confidence": 0.9,
+    "category": "saudacao"
+  },
+  {
+    "question": "onde está meu pedido",
+    "response": "Para verificar seu pedido, acesse 'Meus Pedidos' no app ou site. Lá você encontra o status de entrega e código de rastreamento!",
+    "confidence": 0.9,
+    "category": "pedidos"
+  },
+  {
+    "question": "rastrear pedido",
+    "response": "Para rastrear: vá em 'Meus Pedidos' > clique no pedido > 'Rastrear Encomenda'. Você também pode usar o código nos Correios!",
+    "confidence": 0.9,
+    "category": "pedidos"
+  },
+  {
+    "question": "quanto tempo demora a entrega",
+    "response": "O prazo varia conforme o vendedor e região. Geralmente: 7-15 dias úteis. Verifique o prazo estimado na página do produto!",
+    "confidence": 0.8,
+    "category": "entrega"
+  },
+  {
+    "question": "como cancelar pedido",
+    "response": "Para cancelar: vá em 'Meus Pedidos' > selecione o pedido > 'Cancelar Pedido'. Só é possível antes do envio!",
+    "confidence": 0.9,
+    "category": "pedidos"
+  },
+  {
+    "question": "formas de pagamento",
+    "response": "Aceitamos: Cartão de crédito/débito, PIX, boleto, ShopeePay e carteiras digitais. Escolha a melhor opção no checkout!",
+    "confidence": 0.9,
+    "category": "pagamento"
+  },
+  {
+    "question": "como pagar com pix",
+    "response": "No checkout, selecione PIX > gere o QR Code ou copie a chave > pague no seu banco > confirme o pagamento!",
+    "confidence": 0.9,
+    "category": "pagamento"
+  },
+  {
+    "question": "não recebi meu produto",
+    "response": "Se passou do prazo: vá em 'Meus Pedidos' > 'Não recebi o produto' > solicite reembolso ou nova entrega. Estamos aqui para ajudar!",
+    "confidence": 0.8,
+    "category": "problemas"
+  },
+  {
+    "question": "produto com defeito",
+    "response": "Para produtos defeituosos: 'Meus Pedidos' > 'Devolver/Reembolsar' > selecione o motivo > siga as instruções. Garantia de 7 dias!",
+    "confidence": 0.8,
+    "category": "devolucao"
+  },
+  {
+    "question": "como devolver produto",
+    "response": "Para devolver: 'Meus Pedidos' > 'Devolver' > motivo da devolução > agende coleta GRATUITA ou vá aos Correios!",
+    "confidence": 0.9,
+    "category": "devolucao"
+  },
+  {
+    "question": "quando recebo o reembolso",
+    "response": "Reembolso PIX: até 1 dia útil. Cartão: 5-10 dias úteis. ShopeePay: instantâneo após aprovação da devolução!",
+    "confidence": 0.8,
+    "category": "reembolso"
+  },
+  {
+    "question": "frete grátis",
+    "response": "Frete grátis em compras acima de R$ 79 (varia por região) ou com Shopee Premium. Veja as condições na página do produto!",
+    "confidence": 0.8,
+    "category": "frete"
+  },
+  {
+    "question": "cupom de desconto",
+    "response": "Encontre cupons em: 'Cupons', na página inicial ou durante eventos especiais. Aplique no checkout para economizar!",
+    "confidence": 0.8,
+    "category": "promocoes"
+  },
+  {
+    "question": "shopee premium",
+    "response": "Shopee Premium: frete grátis ilimitado por R$ 9,90/mês! Mais cupons exclusivos e cashback. Vale muito a pena!",
+    "confidence": 0.9,
+    "category": "premium"
+  },
+  {
+    "question": "como criar conta",
+    "response": "Para criar conta: baixe o app > 'Cadastrar' > use email, telefone ou redes sociais > confirme e pronto! Bem-vindo à Shopee!",
+    "confidence": 0.9,
+    "category": "conta"
+  },
+  {
+    "question": "esqueci minha senha",
+    "response": "Para recuperar senha: tela de login > 'Esqueci a senha' > digite email/telefone > siga as instruções do código recebido!",
+    "confidence": 0.9,
+    "category": "conta"
+  },
+  {
+    "question": "como alterar endereço",
+    "response": "Para alterar endereço: 'Eu' > 'Configurações' > 'Endereços' > adicione ou edite seus endereços de entrega!",
+    "confidence": 0.8,
+    "category": "conta"
+  },
+  {
+    "question": "shopee coins",
+    "response": "Shopee Coins: ganhe fazendo check-in diário, comprando e avaliando! 100 coins = R$ 1,00 de desconto!",
+    "confidence": 0.8,
+    "category": "coins"
+  },
+  {
+    "question": "como usar coins",
+    "response": "Para usar coins: no checkout, marque 'Usar Shopee Coins' > selecione quantos usar > aplique o desconto!",
+    "confidence": 0.8,
+    "category": "coins"
+  },
+  {
+    "question": "produto original",
+    "response": "Compramos apenas de vendedores verificados! Procure pelo selo 'Shopee Garantia' e avaliações positivas para mais segurança!",
+    "confidence": 0.8,
+    "category": "qualidade"
+  },
+  {
+    "question": "como avaliar vendedor",
+    "response": "Para avaliar: 'Meus Pedidos' > pedido entregue > 'Avaliar' > dê nota e comentário. Sua avaliação ajuda outros compradores!",
+    "confidence": 0.8,
+    "category": "avaliacao"
+  },
+  {
+    "question": "chat com vendedor",
+    "response": "Para falar com vendedor: página do produto > 'Chat' > digite sua dúvida. Eles respondem rapidamente!",
+    "confidence": 0.8,
+    "category": "vendedor"
+  },
+  {
+    "question": "flash sale",
+    "response": "Flash Sale: ofertas relâmpago com descontos incríveis! Acompanhe diariamente às 9h, 12h, 18h e 21h!",
+    "confidence": 0.8,
+    "category": "promocoes"
+  },
+  {
+    "question": "live shopping",
+    "response": "Live Shopping: transmissões ao vivo com produtos em promoção! Interaja, faça perguntas e compre com desconto especial!",
+    "confidence": 0.7,
+    "category": "live"
+  },
+  {
+    "question": "shopeepay",
+    "response": "ShopeePay: carteira digital da Shopee! Receba cashback, pague contas, transfira dinheiro e use em milhares de lojas!",
+    "confidence": 0.8,
+    "category": "shopeepay"
+  },
+  {
+    "question": "cashback",
+    "response": "Ganhe cashback comprando com ShopeePay! O dinheiro volta para sua carteira e pode ser usado em novas compras!",
+    "confidence": 0.8,
+    "category": "cashback"
+  },
+  {
+    "question": "jogos shopee",
+    "response": "Shopee Games: jogue daily check-in, Shopee Farm, Quiz Shopee e ganhe coins e cupons grátis! Diversão que dá desconto!",
+    "confidence": 0.7,
+    "category": "jogos"
+  },
+  {
+    "question": "mega sale",
+    "response": "Mega Sale: maior evento de descontos do ano! Acontece várias vezes com ofertas imperdíveis e frete grátis especial!",
+    "confidence": 0.8,
+    "category": "eventos"
+  },
+  {
+    "question": "programa afiliados",
+    "response": "Shopee Affiliate: ganhe comissão indicando produtos! Cadastre-se, compartilhe links e receba por cada venda realizada!",
+    "confidence": 0.7,
+    "category": "afiliados"
+  },
+  {
+    "question": "vender na shopee",
+    "response": "Para vender: baixe o Shopee Seller Centre > cadastre-se > adicione produtos > gerencie pedidos. Comece a vender hoje!",
+    "confidence": 0.8,
+    "category": "vendedor"
+  },
+  {
+    "question": "taxa de venda",
+    "response": "Taxa para vendedores: grátis para começar! Taxas competitivas por transação. Confira detalhes no Seller Centre!",
+    "confidence": 0.7,
+    "category": "vendedor"
+  },
+  {
+    "question": "suporte técnico",
+    "response": "Problemas técnicos? Tente: atualizar app, limpar cache, verificar internet. Persiste? Entre em contato pelo 'Ajuda'!",
+    "confidence": 0.8,
+    "category": "suporte"
+  },
+  {
+    "question": "app não funciona",
+    "response": "App com problemas? Tente: fechar e abrir novamente, atualizar para última versão, reiniciar celular. Isso resolve na maioria dos casos!",
+    "confidence": 0.8,
+    "category": "suporte"
+  },
+  {
+    "question": "obrigado",
+    "response": "De nada! Foi um prazer ajudar! 😊 Continue aproveitando as melhores ofertas da Shopee!",
+    "confidence": 0.9,
+    "category": "agradecimento"
+  },
+  {
+    "question": "muito obrigado",
+    "response": "Fico muito feliz em ter ajudado! Volte sempre que precisar. Boas compras na Shopee! 🛒",
+    "confidence": 0.9,
+    "category": "agradecimento"
+  },
+  {
+    "question": "tchau",
+    "response": "Tchau! Obrigado por escolher a Shopee! Volte sempre para as melhores ofertas! 👋🛍️",
+    "confidence": 0.9,
+    "category": "despedida"
+  },
+  {
+    "question": "até logo",
+    "response": "Até logo! Continue de olho nas nossas promoções diárias! Nos vemos em breve! 🎉",
+    "confidence": 0.9,
+    "category": "despedida"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "question": "quero alterar meus dados",
+    "response": "Informamos que não somos responsáveis pela gestão de entregas. Para alteração de dados pessoais ou informações da conta, solicitamos que entre em contato diretamente com o atendimento oficial da Shopee.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "alterar dados da compra",
+    "response": "Para alterações nos dados da compra, é necessário contatar o suporte oficial da Shopee, pois não temos acesso ao sistema de pedidos para realizar modificações.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "meu endereço está errado",
+    "response": "Entendemos sua preocupação com o endereço incorreto. Como não gerenciamos as entregas, recomendamos entrar em contato com a Shopee o quanto antes para correção do endereço de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "coloquei o endereço errado quero alterar",
+    "response": "Para correção de endereço de entrega, é fundamental contatar rapidamente o atendimento da Shopee, pois eles são os responsáveis por gerenciar e alterar os dados de entrega dos pedidos.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso mudar o endereço do pedido",
+    "response": "Orientamos que entre em contato com o suporte da Shopee para alteração do endereço de entrega, visto que não temos autorização para modificar dados de pedidos já realizados.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "como alterar endereço de entrega",
+    "response": "A alteração do endereço de entrega deve ser solicitada diretamente à Shopee através do atendimento oficial, pois são eles que possuem acesso ao sistema de logística e entregas.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "quero mudar meus dados pessoais",
+    "response": "Para modificações em dados pessoais cadastrais, é necessário acessar sua conta na Shopee ou contatar o suporte oficial, uma vez que não temos acesso a informações pessoais de usuários.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso corrigir o cep",
+    "response": "Correções de CEP devem ser tratadas diretamente com a Shopee, pois eles são responsáveis pela validação e gestão dos dados de entrega dos pedidos realizados na plataforma.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "erro no endereço de entrega",
+    "response": "Em caso de erro no endereço de entrega, é imprescindível contatar o atendimento da Shopee imediatamente, pois somente eles podem realizar alterações nos dados de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "quero trocar o endereço",
+    "response": "Para troca de endereço de entrega, recomendamos entrar em contato com o suporte oficial da Shopee o mais breve possível, visto que não gerenciamos o processo de entregas.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "digitei errado o endereço",
+    "response": "Compreendemos o equívoco com o endereço. Como não temos acesso ao sistema de entregas, orientamos que procure o atendimento oficial da Shopee para correção dos dados.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso atualizar meu endereço",
+    "response": "Atualizações de endereço devem ser solicitadas diretamente à Shopee através dos canais oficiais de atendimento, pois são eles os responsáveis pela gestão das informações de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "como mudar dados do pedido",
+    "response": "Alterações nos dados do pedido são de responsabilidade exclusiva da Shopee. Solicitamos que entre em contato com o suporte oficial para realizar as modificações necessárias.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "endereço incorreto no pedido",
+    "response": "Para resolução de endereço incorreto no pedido, é essencial contatar a Shopee diretamente, uma vez que não possuímos autorização para alterar dados de pedidos em andamento.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "quero corrigir meus dados",
+    "response": "Correções de dados devem ser tratadas com o atendimento oficial da Shopee, pois eles possuem acesso completo ao sistema para realizar as alterações necessárias em sua conta.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso mudar o telefone",
+    "response": "Para alteração de número de telefone, recomendamos acessar sua conta na Shopee ou contatar o suporte oficial, visto que não temos acesso para modificar dados pessoais de usuários.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "como alterar dados pessoais",
+    "response": "Modificações em dados pessoais devem ser realizadas através da própria plataforma Shopee ou solicitadas ao suporte oficial, pois não temos permissão para acessar informações pessoais.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "erro nos dados do pedido",
+    "response": "Em caso de erro nos dados do pedido, orientamos contatar imediatamente o atendimento da Shopee, uma vez que são eles os responsáveis por gerenciar e corrigir informações de pedidos.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso alterar o nome no pedido",
+    "response": "Alterações no nome do pedido devem ser solicitadas diretamente à Shopee através do atendimento oficial, pois não temos acesso ao sistema para realizar modificações em dados de pedidos.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "quero mudar o destinatário",
+    "response": "Para mudança de destinatário, é necessário entrar em contato com o suporte da Shopee o quanto antes, visto que eles são responsáveis pela gestão e alteração dos dados de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "como trocar endereço de cobrança",
+    "response": "Alterações no endereço de cobrança devem ser realizadas através da conta do usuário na Shopee ou solicitadas ao atendimento oficial, pois não gerenciamos dados financeiros dos clientes.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "erro no cep do pedido",
+    "response": "Para correção de CEP no pedido, é fundamental contatar a Shopee imediatamente através dos canais oficiais, pois somente eles podem alterar dados de entregas já processadas.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso mudar o número da casa",
+    "response": "Modificações no número da casa devem ser tratadas diretamente com o atendimento da Shopee, uma vez que não temos autorização para alterar informações de endereço de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "quero corrigir o complemento",
+    "response": "Para correção do complemento do endereço, solicitamos que entre em contato com o suporte oficial da Shopee, pois eles possuem acesso ao sistema de entregas para realizar alterações.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "digitei errado meu nome",
+    "response": "Em caso de erro na digitação do nome, recomendamos contatar o atendimento da Shopee rapidamente, pois são eles os responsáveis por validar e corrigir dados pessoais nos pedidos.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso alterar cidade no endereço",
+    "response": "Alterações na cidade do endereço de entrega devem ser solicitadas urgentemente à Shopee, visto que não temos acesso ao sistema logístico para realizar tais modificações.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "erro no estado do endereço",
+    "response": "Para correção do estado no endereço, é essencial entrar em contato com o suporte oficial da Shopee o mais breve possível, pois eles gerenciam todas as informações de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "quero mudar ponto de referência",
+    "response": "Modificações no ponto de referência devem ser comunicadas diretamente à Shopee através do atendimento oficial, uma vez que não temos acesso para alterar detalhes de endereço.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "como alterar bairro no pedido",
+    "response": "Para alteração do bairro no pedido, orientamos contatar imediatamente o suporte da Shopee, pois somente eles possuem autorização para modificar dados de localização de entrega.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  },
+  {
+    "question": "preciso corrigir dados urgente",
+    "response": "Entendemos a urgência da situação. Para correções urgentes de dados, recomendamos entrar em contato imediatamente com o atendimento oficial da Shopee, pois eles têm acesso prioritário ao sistema.",
+    "confidence": 0.9,
+    "category": "alteracao_dados"
+  }
+]
